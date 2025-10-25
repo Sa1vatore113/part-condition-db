@@ -5836,5 +5836,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761389444850
+  },
+  "0000021518": {
+    "condition": "HAS SCRATCHES & SCUFFED. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761389445867
   }
 }
