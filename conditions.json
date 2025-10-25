@@ -4814,5 +4814,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761389289436
+  },
+  "0000017523": {
+    "condition": "GOOD",
+    "type": "good",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761389290599
   }
 }
