@@ -8020,5 +8020,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761390261893
+  },
+  "0002037913": {
+    "condition": "BROKEN TAB, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761390263153
   }
 }
