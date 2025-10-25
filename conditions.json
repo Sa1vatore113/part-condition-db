@@ -16945,5 +16945,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761397220946
+  },
+  "0000027931": {
+    "condition": "FITS ANY SIDES, RIGHT AND LEFT. HAS SCRATCHES. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761397222257
   }
 }
