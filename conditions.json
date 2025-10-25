@@ -7103,5 +7103,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761389646148
+  },
+  "0000004447": {
+    "condition": "HAS SCRATCHES, CHECK PHOTOS. AIRBAG NOT INCLUDED.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761389647261
   }
 }
