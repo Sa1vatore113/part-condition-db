@@ -1013,5 +1013,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761384983171
+  },
+  "0000004003": {
+    "condition": "DAMAGED, CHECK PHOTOS. RESIDENTIAL DELIVERY AVAILABLE ASK FOR A QUOTE PRIOR TO ORDERING",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761384983892
   }
 }
