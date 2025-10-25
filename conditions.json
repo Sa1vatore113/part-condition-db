@@ -2924,5 +2924,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761385345487
+  },
+  "0002020094": {
+    "condition": "HAS SCRATCHES, CHECK PHOTOS. HUB BORE: 66.5 MM BOLT PATTERN: 5X112",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761385346420
   }
 }
