@@ -110,5 +110,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761383384940
+  },
+  "0000012647": {
+    "condition": "CHECK PHOTOS",
+    "type": "needs_check",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761383385990
   }
 }
