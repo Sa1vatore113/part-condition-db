@@ -4065,5 +4065,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761389177421
+  },
+  "0002026576": {
+    "condition": "SCUFFED, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761389178360
   }
 }
