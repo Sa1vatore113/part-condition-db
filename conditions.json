@@ -43,7 +43,7 @@
   },
   "0001137310": {
     "condition": "BROKEN TAB, CHECK PHOTOS.",
-    "type": "needs_check",
+    "type": "damage",
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761382907597
@@ -113,7 +113,7 @@
   },
   "0000012647": {
     "condition": "CHECK PHOTOS",
-    "type": "needs_check",
+    "type": "damage",
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761383385990
