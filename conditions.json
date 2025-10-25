@@ -5052,5 +5052,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761389325037
+  },
+  "0000019004": {
+    "condition": "HAS SCRATCHES. SEE PICTURES. RESIDENTIAL DELIVERY AVAILABLE ASK FOR A QUOTE PRIOR TO ORDERING",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761389326259
   }
 }
