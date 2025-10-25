@@ -6018,5 +6018,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761389472716
+  },
+  "0002036262": {
+    "condition": "HAVE SCUFFED. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761389473726
   }
 }
