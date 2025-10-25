@@ -1,9 +1,30 @@
 {
-  "0001137310": {
-    "condition": "BROKEN TAB, CHECK PHOTOS.",
-    "type": "needs_check",
+  "0001137089": {
+    "condition": "GOOD",
+    "type": "good",
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
-    "timestamp": 1761382694808
+    "timestamp": 1761382694810
+  },
+  "0001137077": {
+    "condition": "GOOD",
+    "type": "good",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761382695302
+  },
+  "0001137120": {
+    "condition": "GOOD",
+    "type": "good",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761382695309
+  },
+  "0001137269": {
+    "condition": "GOOD",
+    "type": "good",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761382698276
   }
 }
