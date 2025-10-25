@@ -1160,5 +1160,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761385000645
+  },
+  "0002002520": {
+    "condition": "TORN, CHECK PHOTOS. AIRBAG NOT INCLUDED.",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761385001397
   }
 }
