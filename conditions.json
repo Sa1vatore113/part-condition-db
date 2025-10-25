@@ -40,5 +40,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761382906506
+  },
+  "0001137310": {
+    "condition": "BROKEN TAB, CHECK PHOTOS.",
+    "type": "needs_check",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761382907597
   }
 }
