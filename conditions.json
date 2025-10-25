@@ -411,5 +411,12 @@
     "lastUpdate": "2025-10-25",
     "updatedBy": "auto-bot",
     "timestamp": 1761384276243
+  },
+  "0001000600": {
+    "condition": "CHECK PHOTOS",
+    "type": "damage",
+    "lastUpdate": "2025-10-25",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761384276930
   }
 }
