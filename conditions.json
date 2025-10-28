@@ -114,9 +114,9 @@
   "0000012647": {
     "condition": "CHECK PHOTOS",
     "type": "damage",
-    "lastUpdate": "2025-10-25",
+    "lastUpdate": "2025-10-28",
     "updatedBy": "auto-bot",
-    "timestamp": 1761383385990
+    "timestamp": 1761643645817
   },
   "0001002275": {
     "condition": "GOOD",
