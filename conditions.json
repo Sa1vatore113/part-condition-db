@@ -20228,5 +20228,12 @@
     "lastUpdate": "2025-10-28",
     "updatedBy": "auto-bot",
     "timestamp": 1761641163460
+  },
+  "0002049007": {
+    "condition": "CHIPPED, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-10-28",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761641165783
   }
 }
