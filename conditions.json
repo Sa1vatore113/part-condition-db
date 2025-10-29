@@ -24624,5 +24624,12 @@
     "lastUpdate": "2025-10-29",
     "updatedBy": "auto-bot",
     "timestamp": 1761752976279
+  },
+  "0000165606": {
+    "condition": "HAVE SCUFFED. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-10-29",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761752978164
   }
 }
