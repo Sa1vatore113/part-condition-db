@@ -28292,5 +28292,12 @@
     "lastUpdate": "2025-10-30",
     "updatedBy": "auto-bot",
     "timestamp": 1761843014223
+  },
+  "0000174304": {
+    "condition": "HAS TORN SEE PHOTO.",
+    "type": "damage",
+    "lastUpdate": "2025-10-30",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761843016749
   }
 }
