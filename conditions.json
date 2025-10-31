@@ -30413,5 +30413,12 @@
     "lastUpdate": "2025-10-31",
     "updatedBy": "auto-bot",
     "timestamp": 1761908376847
+  },
+  "0000072977": {
+    "condition": "BROKEN TAB. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-10-31",
+    "updatedBy": "auto-bot",
+    "timestamp": 1761908379226
   }
 }
