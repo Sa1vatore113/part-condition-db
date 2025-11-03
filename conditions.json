@@ -31120,5 +31120,12 @@
     "lastUpdate": "2025-11-03",
     "updatedBy": "auto-bot",
     "timestamp": 1762154667793
+  },
+  "0000125753": {
+    "condition": "HAS SCRATCHES. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-11-03",
+    "updatedBy": "auto-bot",
+    "timestamp": 1762169658840
   }
 }
