@@ -32520,5 +32520,12 @@
     "lastUpdate": "2025-11-07",
     "updatedBy": "auto-bot",
     "timestamp": 1762532058731
+  },
+  "0000043110": {
+    "condition": "HAS TORN. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-11-07",
+    "updatedBy": "auto-bot",
+    "timestamp": 1762532060864
   }
 }
