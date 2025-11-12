@@ -38281,5 +38281,12 @@
     "lastUpdate": "2025-11-12",
     "updatedBy": "auto-bot",
     "timestamp": 1762972200433
+  },
+  "0001145295": {
+    "condition": "SCUFFED, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-11-12",
+    "updatedBy": "auto-bot",
+    "timestamp": 1762972202828
   }
 }
