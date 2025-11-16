@@ -40374,5 +40374,12 @@
     "lastUpdate": "2025-11-16",
     "updatedBy": "auto-bot",
     "timestamp": 1763303882892
+  },
+  "0001082222": {
+    "condition": "BIG BEND SPORT UTILITY 4-DOOR",
+    "type": "damage",
+    "lastUpdate": "2025-11-16",
+    "updatedBy": "auto-bot",
+    "timestamp": 1763303885403
   }
 }
