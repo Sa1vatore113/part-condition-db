@@ -42929,5 +42929,12 @@
     "lastUpdate": "2025-11-18",
     "updatedBy": "auto-bot",
     "timestamp": 1763505737592
+  },
+  "0002045086": {
+    "condition": "HAS SCRATCHES, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-11-18",
+    "updatedBy": "auto-bot",
+    "timestamp": 1763505739798
   }
 }
