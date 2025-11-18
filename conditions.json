@@ -42747,5 +42747,12 @@
     "lastUpdate": "2025-11-18",
     "updatedBy": "auto-bot",
     "timestamp": 1763500739150
+  },
+  "0002045106": {
+    "condition": "HAS SCRATCHES, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-11-18",
+    "updatedBy": "auto-bot",
+    "timestamp": 1763500741647
   }
 }
