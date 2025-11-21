@@ -44070,5 +44070,12 @@
     "lastUpdate": "2025-11-21",
     "updatedBy": "auto-bot",
     "timestamp": 1763711137573
+  },
+  "0000083043": {
+    "condition": "HAVE PEELED. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-11-21",
+    "updatedBy": "auto-bot",
+    "timestamp": 1763711140147
   }
 }
