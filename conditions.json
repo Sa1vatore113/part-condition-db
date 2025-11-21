@@ -44147,5 +44147,12 @@
     "lastUpdate": "2025-11-21",
     "updatedBy": "auto-bot",
     "timestamp": 1763716724910
+  },
+  "0001122472": {
+    "condition": "HAS SCRATCHES, BROKEN TAB, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-11-21",
+    "updatedBy": "auto-bot",
+    "timestamp": 1763717063781
   }
 }
