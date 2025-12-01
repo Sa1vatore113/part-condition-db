@@ -2014,5 +2014,12 @@
     "lastUpdate": "2025-12-01",
     "updatedBy": "auto-bot",
     "timestamp": 1764627817912
+  },
+  "0000064406": {
+    "condition": "BROKEN TAB. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2025-12-01",
+    "updatedBy": "auto-bot",
+    "timestamp": 1764627819595
   }
 }
