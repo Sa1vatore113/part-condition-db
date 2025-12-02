@@ -2532,5 +2532,12 @@
     "lastUpdate": "2025-12-02",
     "updatedBy": "auto-bot",
     "timestamp": 1764674250621
+  },
+  "0000140531": {
+    "condition": "HAS SCRATCHES, CHECK PHOTOS. RESIDENTIAL DELIVERY AVAILABLE ASK FOR A QUOTE PRIOR TO ORDERING",
+    "type": "damage",
+    "lastUpdate": "2025-12-02",
+    "updatedBy": "auto-bot",
+    "timestamp": 1764678577862
   }
 }
