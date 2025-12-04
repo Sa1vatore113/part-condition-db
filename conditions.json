@@ -3834,5 +3834,12 @@
     "lastUpdate": "2025-12-04",
     "updatedBy": "auto-bot",
     "timestamp": 1764863529804
+  },
+  "EBAY_197919706496": {
+    "condition": "GOOD",
+    "type": "good",
+    "lastUpdate": "2025-12-04",
+    "updatedBy": "auto-bot",
+    "timestamp": 1764865030428
   }
 }
