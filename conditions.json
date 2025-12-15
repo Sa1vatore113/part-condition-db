@@ -5213,5 +5213,12 @@
     "lastUpdate": "2025-12-15",
     "updatedBy": "auto-bot",
     "timestamp": 1765815932431
+  },
+  "0001041825": {
+    "condition": "SCUFFED, CHECK PHOTOS.",
+    "type": "damage",
+    "lastUpdate": "2025-12-15",
+    "updatedBy": "auto-bot",
+    "timestamp": 1765815934722
   }
 }
