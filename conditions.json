@@ -5997,5 +5997,12 @@
     "lastUpdate": "2025-12-19",
     "updatedBy": "auto-bot",
     "timestamp": 1766143468601
+  },
+  "0002018734": {
+    "condition": "HAS SCRATCHES, CHECK PHOTOS. HUB BORE: 63.4 MM. BOLT PATTERN (PCD): 5X108 (5X4.25).",
+    "type": "damage",
+    "lastUpdate": "2025-12-19",
+    "updatedBy": "auto-bot",
+    "timestamp": 1766143469980
   }
 }
