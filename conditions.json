@@ -6207,5 +6207,12 @@
     "lastUpdate": "2026-01-07",
     "updatedBy": "auto-bot",
     "timestamp": 1767771008597
+  },
+  "0000108474": {
+    "condition": "HAS SCRATCHES. SEE PICTURES.",
+    "type": "damage",
+    "lastUpdate": "2026-01-07",
+    "updatedBy": "auto-bot",
+    "timestamp": 1767771010668
   }
 }
