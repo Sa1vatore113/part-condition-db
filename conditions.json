@@ -6872,5 +6872,12 @@
     "lastUpdate": "2026-01-23",
     "updatedBy": "auto-bot",
     "timestamp": 1769175604491
+  },
+  "EBAY_205870449336": {
+    "condition": "GOOD",
+    "type": "good",
+    "lastUpdate": "2026-01-23",
+    "updatedBy": "auto-bot",
+    "timestamp": 1769175631967
   }
 }
