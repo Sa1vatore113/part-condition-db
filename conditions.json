@@ -7201,5 +7201,12 @@
     "lastUpdate": "2026-02-04",
     "updatedBy": "auto-bot",
     "timestamp": 1770217840201
+  },
+  "EBAY_198048670279": {
+    "condition": "GOOD",
+    "type": "damage",
+    "lastUpdate": "2026-02-04",
+    "updatedBy": "auto-bot",
+    "timestamp": 1770218953525
   }
 }
